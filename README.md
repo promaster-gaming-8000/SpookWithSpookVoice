@@ -42,17 +42,25 @@ A: What is not allowed is adding units and making new features. However in this 
 Special thanks to Spook for letting us record his voice and use a photo of him for this silly mod! And also a special thanks to Ultra7 for creating the dialogues for Spook's unit
 
 Programmer:
+
 PromasterYTJava - https://www.youtube.com/@promasterytjava
 
 Special Contributors:
+
 Spo.0k
+
 Ultra7
 
 Testers:
+
 Spo.0k
+
 MRTERRORJAVA - https://www.youtube.com/@mrterrorjava6444
+
 Darkraiah - https://www.twitch.tv/darkraiah
+
 BlackSnow
+
 Ultra7
 
 If you have anymore suggestions or discovered any bugs, please let me know and I will try to fix it. Thankyou!
