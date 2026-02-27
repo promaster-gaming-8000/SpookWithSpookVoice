@@ -35,6 +35,7 @@ For example, the "Attack" folder contains all of Spook’s attack voice lines.
 
 # Q&A ❓
 Q: Didn't the developers of Mental Omega said that Modding Mental Omega is not allowed?
+
 A: What is not allowed is adding units and making new features. However in this situation, we only changed the audio and an image which does not violate their terms
 
 # CONTRIBUTORS ✍
