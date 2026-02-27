@@ -32,8 +32,29 @@ This folder contains all the necessary installation files. Please refer to the I
 This folder contains all the sound files used in-game. The sounds are organized into their respective folders.
 For example, the "Attack" folder contains all of Spook’s attack voice lines.
 
+[====[ (4) Q&A]====]
+Q: Didn't the developers of Mental Omega said that Modding Mental Omega is not allowed?
+A: What is not allowed is adding units and making new features. However in this situation, we only changed the audio and an image which does not violate their terms
+
+[====[ (5) CONTRIBUTORS]====]
+Special thanks to Spook for letting us record his voice and use a photo of him for this silly mod! And also a special thanks to Ultra7 for creating the dialogues for Spook's unit
+
+Programmer:
+PromasterYTJava - https://www.youtube.com/@promasterytjava
+
+Special Contributors:
+Spo.0k
+Ultra7
+
+Testers:
+Spo.0k
+MRTERRORJAVA - https://www.youtube.com/@mrterrorjava6444
+Darkraiah - https://www.twitch.tv/darkraiah
+BlackSnow
+Ultra7
+
 [====[=========]====]
 
 If you have anymore suggestions or discovered any bugs, please let me know and I will try to fix it. Thankyou!
 
-© Creative Commons License
+© This Project is under the Creative Commons License
